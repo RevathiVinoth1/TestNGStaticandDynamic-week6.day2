@@ -1,0 +1,1 @@
+# TestNGStaticandDynamic-week6.day2
